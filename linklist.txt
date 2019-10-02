@@ -18,3 +18,11 @@ Python Commands:
 https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/
 https://www.educba.com/python-3-commands/
 https://www.w3schools.com/python/default.asp
+
+Open the intro file:
+
+Download the intro file from GitHub
+Navigate to download folder in the Terminal
+
+
+python /Users/kevin/Documents/python/hello_world.py
