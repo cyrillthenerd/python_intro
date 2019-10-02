@@ -1,0 +1,20 @@
+Installing Python 3.7:
+
+Download: https://www.python.org/downloads/release/python-374/
+Go throught the installation wizard
+
+Download an editor of your choosing
+XCode (MacOS): https://developer.apple.com/xcode/
+Atom (MacOS and Windows): https://atom.io
+or 
+PyCharm (MacOS and Windows): https://www.jetbrains.com/pycharm/download/
+
+
+Learning Materials:
+https://www.python.org
+https://www.codecademy.com/learn
+
+Python Commands:
+https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/
+https://www.educba.com/python-3-commands/
+https://www.w3schools.com/python/default.asp
