@@ -26,3 +26,6 @@ Navigate to download folder in the Terminal
 
 
 python /Users/kevin/Documents/python/hello_world.py
+
+Other Tools:
+https://www.codota.com
