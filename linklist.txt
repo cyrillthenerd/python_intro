@@ -29,3 +29,6 @@ python /Users/kevin/Documents/python/hello_world.py
 
 Other Tools:
 https://www.codota.com
+
+YouTube Videos:
+https://www.youtube.com/playlist?list=PLrY1sJWQvV38Kq4qtrah7oQ4RI9xeXzk-
